@@ -19,5 +19,5 @@ You can test the app via Expo Mobile App or Simulators.
 4 - Deleting Deck
 5 - Taking a Quiz
 
-####Testing
+#### Testing
 Application Tested on Iphone 7 Plus(13.5) and Android Simulator (Nexus 5X API 28 - Android 9.0)
